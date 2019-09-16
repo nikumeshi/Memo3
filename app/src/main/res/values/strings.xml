@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">R304_Memo3</string>
+    <string name="saveBtnLabel">Save</string>
+    <string name="contentLabel">write memo here</string>
+    <string name="last_modified">%1$tm月%1$td日 %1$tH時%1$tM分</string>
+    <string name="deleteBtn_label">delete</string>
+    <string name="addBtn_label">add</string>
+    <string name="del_alertMessage">メモを削除しますか？</string>
+    <string name="del_yes">はい</string>
+    <string name="del_no">いいえ</string>
+
+</resources>
